@@ -6,7 +6,7 @@ By Ronald Kinch.
 
 Create a method to reverse the word order of string.
 Do not use String#split method.
-Step thru the string creating an array of words.
+Step thru the string with each_char creating an array of words.
 Then reverse and join.
 
 ## Authors
